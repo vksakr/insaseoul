@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SSAFY 2018-2019"
+title                    : "SSAFY_10 10insa"
 title_separator          : "-"
 name                     : ""
-description              : "Samsung Software Academy for Youth"
+description              : "10반 10인싸"
 url                      : "https://vksakr.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/insaseoul" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
